@@ -1,14 +1,9 @@
-# 📚 Formato Memoria ICCI UNAP
+# 📚 Formato IN
 
-> Plantilla moderna en Typst para tu memoria de título de Ingeniería Civil en Computación e Informática - UNAP
 
-<div align="center">
+## 📋 Requisitos
 
-![Typst](https://img.shields.io/badge/Typst-latest-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-active-success)
-
-</div>
+- 💻 Extensión Tinymist con typst 0.12 en vs code
 
 ## 🌟 Características
 
@@ -18,10 +13,6 @@
 - 📚 Sistema de citación integrado
 - 🔄 Numeración y referencias automáticas
 
-## 📋 Requisitos
-
-- ⚡ Typst (última versión)
-- 💻 Extensión Typst para VSCode (recomendado)
 
 ## 🚀 Inicio Rápido
 
@@ -102,23 +93,3 @@ Para citar referencias del archivo citas.bib:
 // Cita en el texto
 @clave-referencia
 ```
-
-## 💡 ¿Por qué Typst?
-
-- **Más rápido que LaTeX**: Compilación instantánea
-- **Sintaxis moderna**: Más fácil de aprender que LaTeX
-- **Sin dependencias**: Todo incluido en un solo ejecutable
-- **Potente sistema de templates**: Personalización sencilla
-
-## 🤝 Contribuir
-
-¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una mejora:
-
-1. 🍴 Haz un fork del proyecto
-2. 🔧 Crea tu rama de características
-3. 📝 Haz tus cambios
-4. 📫 Envía un pull request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
